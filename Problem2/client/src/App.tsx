@@ -39,7 +39,7 @@ function App() {
     [users]
   );
   return (
-    <Container maxWidth="sm" sx={{ bgcolor: "#FAFAFD", p: "16px!important" }}>
+    <Container maxWidth="sm" sx={{ bgcolor: "#FAFAFD", p: "16px!important", height:'100vh' }}>
       <Box sx={{ mb: "2rem" }}>
         <Box sx={{ display: "flex", alignItems: "center", m: "10px" }}>
           <AdminPanelSettingsIcon color="action" fontSize="small" />
