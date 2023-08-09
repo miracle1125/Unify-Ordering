@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "status": "request",
+      "user": {
+        "id": 0,
+        "name": "Joe",
+        "lastName": "Bloggs",
+        "phone": "+353 123456789",
+        "email": "joe@gmail.com"
+      },
+      "role": "Adminstrator"
+    },
+    {
+      "id": 1,
+      "status": "pending",
+      "user": {
+        "id": 1,
+        "name": "Sarah",
+        "lastName": "Connors",
+        "phone": "+353 123456789",
+        "email": "sarah@gmail.com"
+      },
+      "role": "Adminstrator"
+    },
+    {
+      "id": 2,
+      "status": "approved",
+      "user": {
+        "id": 2,
+        "name": "Joespeh",
+        "lastName": "Bloggs",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 3,
+      "status": "declined",
+      "user": {
+        "id": 3,
+        "name": "Sarah",
+        "lastName": "Connors",
+        "phone": "+353 123456789",
+        "email": "sarah@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 4,
+      "status": "approved",
+      "user": {
+        "id": 4,
+        "name": "Mathew",
+        "lastName": "Murphy",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 5,
+      "status": "approved",
+      "user": {
+        "id": 5,
+        "name": "Joespeh",
+        "lastName": "Bloggs",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 6,
+      "status": "approved",
+      "user": {
+        "id": 6,
+        "name": "Sarah",
+        "lastName": "Connors",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 7,
+      "status": "invited",
+      "user": {
+        "id": 7,
+        "name": "Mathew",
+        "lastName": "Murphy",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 8,
+      "status": "pending",
+      "user": {
+        "id": 8,
+        "name": "Joespeh",
+        "lastName": "Bloggs",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 9,
+      "status": "invited",
+      "user": {
+        "id": 9,
+        "name": "Mathew",
+        "lastName": "Murphy",
+        "phone": "+353 123456789",
+        "email": "test@gmail.com"
+      },
+      "role": "Standard"
+    }
+  ],
+  "invites": [
+    {
+      "id": 0,
+      "phone": "+353 123456789",
+      "role": "Adminstrator"
+    },
+    {
+      "id": 1,
+      "phone": "+353 123456789",
+      "role": "Standard"
+    },
+    {
+      "id": 2,
+      "phone": "+353 123456789",
+      "role": "Standard"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "mock:api": "node index"
+  }
+}
